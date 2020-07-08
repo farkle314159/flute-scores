@@ -4,57 +4,26 @@ This is a collection of scores for various songs, some original works, some arra
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These songs are kept in Music-xml so that they can be imported into various programs used for writing and editing musical scores.  Some examples are MuseScore from musescore.com; Score Cloud from scorecloud.com as well as several of the higher end systems used for engraving/publishing.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Simply have a software program that can import and edit Music-xml files. These should be Operating System agnostic, so any software on any os, as long as it reads and edits Music-xml.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Note you shouldn't need your own GitHub account, but it might come in handy.  Refer to this link for more information:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Since I'm using GitHub to allow for versioning and collaboration, follow these steps:
+1) Download the files; git pull ...;
+2) Open the files in _______
+3) Make edits and save and/or export as Music-XML file
+4) Collect your changes; git add ____, git commit ______
+5) Upload to the repository; git push ______
 
 ### And coding style tests
 
 Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -82,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to anyone whose "code", or in this case music, was used
 * Inspiration
 * etc
 
