@@ -4,11 +4,14 @@ This is a collection of scores for various songs, some original works, some arra
 
 ## Getting Started
 
-These songs are kept in Music-xml so that they can be imported into various programs used for writing and editing musical scores.  Some examples are MuseScore from musescore.com; Score Cloud from scorecloud.com as well as several of the higher end systems used for engraving/publishing.
+These songs are kept in Music-xml so that they can be imported into various programs used for writing and editing musical scores.  
+Some examples are MuseScore from musescore.com; 
+Score Cloud from scorecloud.com as well as several of the higher end systems used for engraving/publishing.
 
 ### Prerequisites
 
-Simply have a software program that can import and edit Music-xml files. These should be Operating System agnostic, so any software on any os, as long as it reads and edits Music-xml.
+Simply have a software program that can import and edit Music-xml files. These should be Operating System agnostic, so any software on any os, 
+as long as it reads and edits Music-xml.
 
 ### Installing
 
@@ -16,14 +19,10 @@ Note you shouldn't need your own GitHub account, but it might come in handy.  Re
 
 Since I'm using GitHub to allow for versioning and collaboration, follow these steps:
 1) Download the files; git pull ...;
-2) Open the files in _______
+2) Open the files in the software package of you choice (see "Getting Started" for examples)
 3) Make edits and save and/or export as Music-XML file
 4) Collect your changes; git add ____, git commit ______
 5) Upload to the repository; git push ______
-
-### And coding style tests
-
-Explain what these tests test and why
 
 ## Built With
 
@@ -36,8 +35,6 @@ Explain what these tests test and why
 ## Acknowledgments
 
 * Hat tip to anyone whose "code", or in this case music, was used
-* Inspiration
-* etc
 
 ##############################################  Needs updating below this line  ###################################################
 ## Contributing
